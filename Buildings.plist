@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>base</key>
+	<array>
+		<string>base1.png</string>
+		<string>base2.png</string>
+		<string>base3.png</string>
+		<string>base4.png</string>
+	</array>
+	<key>factory</key>
+	<array>
+		<string>factory1.png</string>
+		<string>factory2.png</string>
+		<string>factory3.png</string>
+		<string>factory4.png</string>
+	</array>
+	<key>coalWarehouse</key>
+	<array>
+		<string>coalWarehouse1.png</string>
+		<string>coalWarehouse2.png</string>
+		<string>coalWarehouse3.png</string>
+		<string>coalWarehouse4.png</string>
+	</array>
+	<key>weaponary</key>
+	<array>
+		<string>weaponary1.png</string>
+		<string>weaponary2.png</string>
+		<string>weaponary3.png</string>
+		<string>weaponary4.png</string>
+	</array>
+	<key>repairer</key>
+	<array>
+		<string>repairer1.png</string>
+		<string>repairer2.png</string>
+		<string>repairer3.png</string>
+		<string>repairer4.png</string>
+	</array>
+	<key>sheild</key>
+	<array>
+		<string>sheild1.png</string>
+		<string>sheild2.png</string>
+		<string>sheild3.png</string>
+		<string>sheild4.png</string>
+	</array>
+</dict>
+</plist>

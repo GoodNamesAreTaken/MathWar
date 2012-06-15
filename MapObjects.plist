@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>MineField</key>
+	<dict>
+		<key>Picture</key>
+		<string>MineField.png</string>
+		<key>Text</key>
+		<string>This is the minefield from the previous war. If you fail puzzle on it, your robot will recieve 2 damage</string>
+	</dict>
+	<key>Swamp</key>
+	<dict>
+		<key>Picture</key>
+		<string>swamp.png</string>
+		<key>Text</key>
+		<string>This is the rare swamp in this desert. There is a very high metal corrosion in this area. If you faiil puzzle in swamp, you robot will loose 1 attack point. If attack &lt; 0, robot will die.</string>
+	</dict>
+	<key>Gorge</key>
+	<dict>
+		<key>Picture</key>
+		<string>gorge.png</string>
+		<key>Text</key>
+		<string>This is a gorge. There are lots of it in burned land. If you fail puzzle at gorge, your robot will die.</string>
+	</dict>
+	<key>Barricades</key>
+	<dict>
+		<key>Picture</key>
+		<string>barricades.png</string>
+		<key>Text</key>
+		<string>This is the barricades built from ancient buildings. If you cant pass barricades, your robot will return to previous location.</string>
+	</dict>
+	<key>Weaponary</key>
+	<dict>
+		<key>Picture</key>
+		<string>weaponary1.png</string>
+		<key>Text</key>
+		<string>This is a weponary. Lots of sweet ammo for all purpose! If you own weaponary, it will grant +1 attack to all robots.</string>
+	</dict>
+	<key>Antenna</key>
+	<dict>
+		<key>Picture</key>
+		<string>coalWarehouse1.png</string>
+		<key>Text</key>
+		<string>This is an antenna. It will help you control more robots same time. Atenna grants you additional move point per turn.</string>
+	</dict>
+	<key>Repairer</key>
+	<dict>
+		<key>Picture</key>
+		<string>repairer1.png</string>
+		<key>Text</key>
+		<string>This is the repairing facility. Looks like like ancient human service center. The repairer will heal your units by 1 each turn.</string>
+	</dict>
+	<key>Sheild</key>
+	<dict>
+		<key>Picture</key>
+		<string>sheild1.png</string>
+		<key>Text</key>
+		<string>This is the sheild generator built for protection from meteor rain. Sheild will grant your units +1 health.</string>
+	</dict>
+	<key>Factory</key>
+	<dict>
+		<key>Picture</key>
+		<string>factory1.png</string>
+		<key>Text</key>
+		<string>This is a factory. You can build additional soldiers here or upgrade existing.</string>
+	</dict>
+	<key>Base</key>
+	<dict>
+		<key>Picture</key>
+		<string>base1.png</string>
+		<key>Text</key>
+		<string>This is your main command center, commander. Dont let enemies catch it. Your personal protector is guarding base from uninvited guests.</string>
+	</dict>
+</dict>
+</plist>

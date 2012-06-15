@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<string>Capture enemy base to win</string>
+	<string>New units can be built on your base or factories</string>
+	<string>Units can be upgraded on your base or factories</string>
+	<string>To build unit tap your base or factory and press button with tank icon</string>
+	<string>Units can be upgraded 2 times</string>
+	<string>To upgrade robot your need to move him on your base or factory and press button with spanner</string>
+	<string>Base or factory can build only one robot per turn</string>
+	<string>Your need to solve puzzle to be able to move throught gorges, barricades, swamps and minefields</string>
+	<string>Gorge will kill your robot if your don&apos;t solve the puzzle</string>
+	<string>If you don&apos;t solve a puzzle on a swamp your robot will become weaker</string>
+	<string>If you don&apos;t solve a puzzle on a minefield  your robot will recieve some damage</string>
+	<string>42 is the Answer</string>
+	<string>If your capture weaponary all your robots will become stronger</string>
+	<string>If you capture a sheild all your robots will live longer</string>
+	<string>You can move only one robot per turn, but if you capture antenna, you will be able to move once more</string>
+	<string>If you capture a repairer, all yor robots will be repaired each turn</string>
+	<string>Bases are guarded by very powerful robot</string>
+	<string>Complete missions to unlock new units and upgrades</string>
+</array>
+</plist>
